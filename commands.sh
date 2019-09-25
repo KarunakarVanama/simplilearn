@@ -1,0 +1,3 @@
+docker push karunakarvanama/helloworldjava
+docker pull karunakarvanama/helloworldjava
+docker run karunakarvanama/helloworldjava
